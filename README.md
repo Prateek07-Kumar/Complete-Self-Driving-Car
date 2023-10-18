@@ -22,7 +22,7 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Complete-Self-Driving-Car.git
+https://github.com/Prateek07-Kumar/Complete-Self-Driving-Car
 ```
 
 ## STEP 02: 
@@ -30,7 +30,7 @@ Create an environment & activate
 
 
 ```bash
-conda create -n sdcar python=3.7 -y
+conda create -n venv python=3.8 -y
 ```
 
 ## STEP 03: 
@@ -54,8 +54,8 @@ Now open your simulator in Autonomous mood & run yes!!🙂
 
 # Authors:
 ```bash
-Author: Bappy Ahmed
+Author: Prateek Kumar Chaurasia
 Data Scientist
-Email: entbappy73@gmail.com
+Email: prateekchaurasia791@gmail.com
 ```
 
